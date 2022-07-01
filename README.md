@@ -4,12 +4,6 @@
 
 ## Microrrelato
 
-
-
-https://user-images.githubusercontent.com/87764919/176901855-19653235-945c-4849-b17c-14c80ae9bde2.mp4
-
-
-
 ## 5 etapas  
 
 1) Problema: poca diversidad de tomate en el mercado y queja del consumidor acerca de la mala calidad y el poco sabor. 
