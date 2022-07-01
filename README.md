@@ -38,5 +38,5 @@ NOTA: debería mejorar el audio.
 5) Presentacion del equipo.
 
 
-![mejoramiento](./images/contacto.png)
+![contacto](./images/contacto.png)
 
