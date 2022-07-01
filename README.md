@@ -1,9 +1,25 @@
 # Taller de microrrelatos
 
-## Resources Used
+![microrrelatos](./images/microrrel.png)
+
+## Recursos usados
 ![Canva](https://img.shields.io/badge/-Canva-00bec6?logo=Canva&logoColor=white&style=flat)
 ![OBS](https://img.shields.io/badge/-obs-3f4f75?logo=obs&logoColor=white&style=flat) 
 
+## 5 etapas  
+
+1) Problema: poca diversidad de tomate en el mercado y queja del consumidor acerca de la mala calidad y el poco sabor. 
+
+2) Saberes: genética de tomate.
+
+3) Diferencial: especies silvestres de tomate.
+
+4) Solución: desarrollo de variedades de calidad mejorada adaptadas a las condiciones de cultivo de la región.
+
+5) Equipo: estudiantes, becarios e investigadores IICAR-CONICET-UNR
+
+
+![mejoramiento](./images/mejoramiento.png)
 
 ## Guion
 
@@ -22,20 +38,6 @@ NOTA: debería mejorar el audio.
 
 ### Texto
 - En primera persona, a cámara.
-
-![mejoramiento](./images/mejoramiento.png)
-
-## 5 etapas  
-
-1) Problematica. Llamado a pensar de la audiencia. Lo poco que se conoce y la poca diversidad que se encuentra en el mercado del tomate en fresco. La queja del consumidor acerca del poco sabor.
-
-2) ¿Qué invetigamos? Objetivos del grupo de trabajo: mejorar la calidad de fruto.
-
-3) Diferencial. ¿Cómo lo hacemos? Hacer hincapié en las especies silvestres.
-
-4) Solución. Variedades desarrolladas, seleccionadas y logros.
-
-5) Presentacion del equipo.
 
 
 ![contacto](./images/contacto.png)
