@@ -2,9 +2,13 @@
 
 ![microrrelatos](./images/microrrel.png)
 
-## Recursos usados
-![Canva](https://img.shields.io/badge/-Canva-00bec6?logo=Canva&logoColor=white&style=flat)
-![OBS](https://img.shields.io/badge/-obs-3f4f75?logo=obs&logoColor=white&style=flat) 
+## Microrrelato
+
+
+
+https://user-images.githubusercontent.com/87764919/176901855-19653235-945c-4849-b17c-14c80ae9bde2.mp4
+
+
 
 ## 5 etapas  
 
@@ -21,7 +25,12 @@
 
 ![mejoramiento](./images/mejoramiento.png)
 
+
 ## Guion
+
+### Recursos usados
+![Canva](https://img.shields.io/badge/-Canva-00bec6?logo=Canva&logoColor=white&style=flat)
+![OBS](https://img.shields.io/badge/-obs-3f4f75?logo=obs&logoColor=white&style=flat) 
 
 ### Camara  
 - Presentacion
