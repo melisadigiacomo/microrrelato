@@ -4,6 +4,12 @@
 
 ## Microrrelato
 
+
+
+https://user-images.githubusercontent.com/87764919/177043188-a8591c1b-243b-458d-92d5-8bc816e86a51.mp4
+
+
+
 ## 5 etapas  
 
 1) Problema: poca diversidad de tomate en el mercado y queja del consumidor acerca de la mala calidad y el poco sabor. 
@@ -45,3 +51,8 @@ NOTA: debería mejorar el audio.
 
 ![contacto](./images/contacto.png)
 
+### ¿Querés saber más?
+
+[Web: **codigotomate.com.ar**](codigotomate.com.ar/)  
+[Instagram: **@codigo.tomate**](https://www.instagram.com/codigo.tomate/)  
+[Youtube: **Codigo Tomate**](https://www.youtube.com/channel/UCewqaLKn7Iu5RVPJOGBKOiQ)  
