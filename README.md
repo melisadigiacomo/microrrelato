@@ -8,13 +8,13 @@
 
 1) Problema: poca diversidad de tomate en el mercado y queja del consumidor acerca de la mala calidad y el poco sabor. 
 
-2) Saberes: genética de tomate.
+2) Saberes: genética y mejoramiento de tomate.
 
 3) Diferencial: especies silvestres de tomate.
 
 4) Solución: desarrollo de variedades de calidad mejorada adaptadas a las condiciones de cultivo de la región.
 
-5) Equipo: estudiantes, becarios e investigadores IICAR-CONICET-UNR
+5) Equipo: estudiantes, becarios e investigadores IICAR-CONICET-UNR.
 
 
 ![mejoramiento](./images/mejoramiento.png)
@@ -32,15 +32,15 @@
 - Poco texto 
 - Captura tipo selfie
 - Uso de chroma para quitar fondo
-- Buena iluminacion.
+- Buena iluminacion
 
 ### Audio
-- Microfono computadora  
+- Microfono PC  
 NOTA: debería mejorar el audio.
 
 
 ### Texto
-- En primera persona, a cámara.
+- Script relatado en primera persona, a cámara
 
 
 ![contacto](./images/contacto.png)
