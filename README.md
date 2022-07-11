@@ -28,10 +28,6 @@ https://user-images.githubusercontent.com/87764919/177043188-a8591c1b-243b-458d-
 
 ## Guion
 
-### Recursos usados
-![Canva](https://img.shields.io/badge/-Canva-00bec6?logo=Canva&logoColor=white&style=flat)
-![OBS](https://img.shields.io/badge/-obs-3f4f75?logo=obs&logoColor=white&style=flat) 
-
 ### Camara  
 - Presentacion
 - Imagenes representativas 
@@ -47,6 +43,17 @@ NOTA: debería mejorar el audio.
 
 ### Texto
 - Script relatado en primera persona, a cámara
+
+
+## Recursos usados
+![Canva](https://img.shields.io/badge/-Canva-00bec6?logo=Canva&logoColor=white&style=flat)
+![OBS](https://img.shields.io/badge/-obs-3f4f75?logo=obs&logoColor=white&style=flat) 
+
+-	Canva: diapositivas y edición  
+Es una plataforma web con versión gratuita muy completa, muy intuitiva y utilizada. Tiene la ventaja de no necesitar ninguna instalación. Se puede desde armar diapositivas y grabarse proyectándolas, descargar en formato video y luego editarlo desde la misma plataforma. Existe la posibilidad de recorte, filtros, transiciones, plantillas de texto, superposición de imágenes, música, entre otras.
+
+- OBS: grabación de pantallas  
+Es una software libre que sirve para la grabación y transmisión de video por streaming.
 
 
 ![contacto](./images/contacto.png)
